@@ -3,6 +3,7 @@ public class Conta {
     private String nome;
     private double saldo;
     private double retirarsaldo;
+    private double dinheiro;
 
 // ALTERAÇÃO
 
