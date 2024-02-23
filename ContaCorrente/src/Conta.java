@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-
 public class Conta {
     private String nome;
     private double saldo;
     private double retirarsaldo;
     private double dinheiro;
 
-// ALTERAÇÃO u
+// ALTERAÇÃO e
 
     public void setNome(String nome) {
         this.nome = nome;
